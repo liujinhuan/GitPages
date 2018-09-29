@@ -13,8 +13,7 @@ tags:
 + HTML5 是下一代的 HTML。HTML5 是 W3C 与 WHATWG 合作的结果。
 + 新特性
 
-> 
-用于绘画的 canvas 元素
+> 用于绘画的 canvas 元素
 用于媒介回放的 video 和 audio 元素
 对本地离线存储的更好的支持
 新的特殊内容元素，比如 article、footer、header、nav、section
