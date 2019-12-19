@@ -46,7 +46,7 @@ npm install --global vue-cli
 ```javascript
 vue init webpack client(目录名称)
 ```
-![基于 webpack 模板的新项目](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/1.png)
+![基于 webpack 模板的新项目](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/1.png)
 
 + 安装依赖及运行
 
@@ -59,7 +59,7 @@ cd client && npm install && npm run dev
 ```javascript
 npm install iview --save
 ```
-![安装iView](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/2.png)
+![安装iView](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/2.png)
 
 
 + 在 webpack 入口页面 main.js 中配置iView：
@@ -153,19 +153,19 @@ import Url from '@/utils/url'
 
 ### 项目截图
 + 登录
-![Login](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/login.png)
+![Login](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/login.png)
 + home主页
-![home](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/home.png)
+![home](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/home.png)
 + 图书列表的请求
-![booklist](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/booklist.png)
+![booklist](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/booklist.png)
 + 图书的添加
-![bookadd](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/bookadd.png)
+![bookadd](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/bookadd.png)
 + 图书的修改
-![bookupdate](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/bookupdate.png)
+![bookupdate](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/bookupdate.png)
 + 图书的详情
-![bookdetail](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/bookdetail.png)
+![bookdetail](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/bookdetail.png)
 + 图书的删除
-![bookdelete](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/AdminBook/client/bookdelete.png)
+![bookdelete](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/AdminBook/client/bookdelete.png)
 
 
 > 有种喜悦叫做从无到有。Server端的博客后续推出~敬请期待。

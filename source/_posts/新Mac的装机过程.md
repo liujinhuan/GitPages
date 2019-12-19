@@ -9,7 +9,7 @@ tags:
 ### Chrome(前端开发🐶的缘故，钟爱Chrome)
 
 + Safiri搜索Chrome，选择Mac下载。
-![ChromeInstall](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/Install-Mac/chrome-install.png)
+![ChromeInstall](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/Install-Mac/chrome-install.png)
 
 ### 微信+QQ+QQ音乐
 
@@ -28,7 +28,7 @@ tags:
 ### SublimeText
 
 + Safiri搜索Chrome，选择Mac下载。
-![SublimeInstall](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/Install-Mac/sublime-install.png)
+![SublimeInstall](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/Install-Mac/sublime-install.png)
 
 + 安装后，需要设置字体。打开sublime，依次点击菜单栏`SublimeText->Preferences->seeting-user`，输入以下配置，保存：
 
@@ -70,17 +70,17 @@ git version 2.11.0 (Apple Git-81)
 + 任意目录新建文件`Monokai-Soda.itermcolors`,[点击见详细内容](https://raw.githubusercontent.com/tofishes/iterm2-zsh/master/_zshrc)
 + 步骤2中的新Profile-myzsh，右侧点击color，右下角点击`color presets`，选择`import`刚刚步骤3中创建的文件。记得：左侧点击`save defaults`
 
-![字体设置](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/Install-Mac/iterm2-1.png)
-![字号设置](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/Install-Mac/iterm2-2.png)
-![窗口及透明度设置](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/Install-Mac/iterm2-3.png)
+![字体设置](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/Install-Mac/iterm2-1.png)
+![字号设置](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/Install-Mac/iterm2-2.png)
+![窗口及透明度设置](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/Install-Mac/iterm2-3.png)
 
 + 关闭窗口，重启iTerm2。新建tab，输入如下地址，并输入开机密码，完成安装zsh。
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
-![zsh安装](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/Install-Mac/zsh-install.png)
+![zsh安装](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/Install-Mac/zsh-install.png)
 
 + 关闭窗口，重启iTerm2。发现上方已经变成zsh。
-![zsh展示](https://raw.githubusercontent.com/liujinhuan/StaticResource/master/images/Install-Mac/zsh-show.png)
+![zsh展示](https://raw.githubusercontent.com/liujinhuan/LearnNotes/master/imgs/Install-Mac/zsh-show.png)
 
 
